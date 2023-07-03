@@ -1,0 +1,6 @@
+parcel
+pandas
+notebook
+flask
+
+
